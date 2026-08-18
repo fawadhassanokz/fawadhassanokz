@@ -117,7 +117,7 @@ Responsive Calculator using HTML, CSS & JavaScript.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fawadhassanokz&theme=algolia&column=4"/>
+<img height="180" src="git1.png">
 
 </p>
 
