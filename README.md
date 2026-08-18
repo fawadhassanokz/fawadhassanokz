@@ -77,7 +77,15 @@ A modern responsive portfolio website.
 
 ---
 
-## 🧮 Modern Calculator
+## 🧮 Github Calculator
+
+Responsive Calculator using HTML, CSS & JavaScript.
+
+🔗 https://fawadhassanokz.github.io/calculator/
+
+---
+
+## 🧮 Netlify Calculator
 
 Responsive Calculator using HTML, CSS & JavaScript.
 
@@ -155,9 +163,13 @@ Responsive Calculator using HTML, CSS & JavaScript.
 
 https://fawadhassanokz.github.io/kust/
 
-🧮 Calculator
+🧮 Netlify Calculator
 
 https://fawadhassancalculator.netlify.app/
+
+🧮 Github Calculator
+
+https://fawadhassanokz.github.io/calculator/
 
 ---
 
