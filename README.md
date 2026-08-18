@@ -97,9 +97,9 @@ Responsive Calculator using HTML, CSS & JavaScript.
 
 <p align="center">
 
-<img height="180" src="githubaccount1.png">
+<img height="100" width="100" src="githubaccount1.png">
 
-<img height="180" src="githubaccount2.png">
+<img height="100" width="100" src="githubaccount2.png">
 
 </p>
 
