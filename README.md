@@ -93,13 +93,13 @@ Responsive Calculator using HTML, CSS & JavaScript.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Profile Account 
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fawadhassanokz&show_icons=true&theme=tokyonight"/>
+<img height="180" src="githubaccount1.png">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadhassanokz&layout=compact&theme=tokyonight"/>
+<img height="180" src="githubaccount2.png">
 
 </p>
 
