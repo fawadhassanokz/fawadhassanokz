@@ -117,7 +117,7 @@ Responsive Calculator using HTML, CSS & JavaScript.
 
 <p align="center">
 
-<img height="180" src="git1.PNG">
+<img height="180" src="profile.png">
 
 </p>
 
