@@ -96,13 +96,11 @@ Responsive Calculator using HTML, CSS & JavaScript.
 # 📊 GitHub Profile Account 
 
 <p align="center">
-
-<img height="100" width="100" src="git1.png">
-
-<img height="100" width="100" src="git2.png">
-
+  
+  <img height="180" src="git1.png">
+  <img height="180" src="git2.png">
+  
 </p>
-
 ---
 
 # 🔥 GitHub Streak
